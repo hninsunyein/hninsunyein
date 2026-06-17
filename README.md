@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A dedicated and adaptable Full Stack Developer with over 3 years experience with a strong academic background and hands-on experience in web development. Proficient in front-end and back-end technologies, with a passion for building scalable applications.
 
 *   🌍  I'm based in Chiang Mai, Thailand
-*   🖥️  See my portfolio at [HSN.dev](http://hninsunyein.dev)
+*   🖥️  See my portfolio at [HSN.dev](https://hsn-portfolio-chi.vercel.app/)
 *   ✉️  You can contact me at [hninsunyein07@gmail.com](mailto:hninsunyein07@gmail.com)
 *   🧠  I'm learning Next.js and server deployment
 *   🤝  I'm open to collaborating on I'm open to collaborating on projects
